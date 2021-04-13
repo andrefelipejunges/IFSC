@@ -1,0 +1,6 @@
+Descrição do processo de criação e funcionamento:
+
+	- Criada a interface via XML
+	- A interface terá dois valores, minímo e máximo, respectivamente, que serão usados como intervalo no sorteio.
+	- Criação do código que realiza o sorteio do número (número aleatório)
+	- Resultado é apresentado na tela, que é um número aleatório no intervalo de dois números definidos pelo usuário na interface.

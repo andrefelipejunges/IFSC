@@ -1,0 +1,5 @@
+Link do projeto no GitHub:
+
+https://github.com/andrefelipejunges/DispositivosMoveis/tree/master/HelloWorld
+
+A pasta está como HelloWorld, mas é o App Sorteio (fiquei com receio de renomear).
